@@ -1,3 +1,6 @@
+
+![Social-Media-Site-Clone](https://github.com/shivamkumarjha711/Social-Media-Site-Clone/assets/125046297/6ee22679-3119-4aae-a335-1b2ae1852887)
+
 Welcome to the GitHub repository for the Social Media Clone project! This project is a front-end implementation of a social media platform, designed to mimic the look and feel of popular social networking sites. The main objective of this project is to showcase the use of pure HTML, CSS, and JavaScript to create a visually appealing and interactive user interface without incorporating actual user interactions or back-end functionality.
 
 # Tech Stack:
